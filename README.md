@@ -1,16 +1,81 @@
-# event_finder
+# 💜 Evently
 
-A new Flutter project.
+**Evently** is a Flutter-based mobile application designed to help users discover events based on their location.   
+Beyond browsing events, the app allows users to **save favorites**, **share reviews** and receive **notifications** for upcoming events they have saved!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 Discover and browse events based on their gps location and filtering by km
+- ⭐ Add events to **Favorites** for quick access
+- 📝 Submit, add stars and view **event reviews**
+- 📍 Location-aware event discovery
+- 🗂️ View events by category
+- 📱 Clean, user-focused UI built with Flutter
+- ⚡ Users can add their own events on the community tab for more local events not provided by the Ticketmaster API
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+- **Flutter** (Dart)
+- REST API integration
+- State management for dynamic UI updates
+- Environment variables for secure API key handling
+
+---
+
+## 🔐 Environment Variables
+
+This project uses environment variables to protect sensitive data such as API keys.
+
+---
+
+## 🚀 Getting Started
+
+Prerequisites
+
+- Flutter SDK
+- Android/iOS emulator or physical device
+
+---
+
+## 🧠 UX & Interaction Focus
+
+Evently was developed with a strong emphasis on user engagement:
+
+- Favorites allow users to curate their own event list, increasing return visits
+
+- Reviews promote user interaction and social proof
+
+- UI decisions aim to minimize cognitive load and improve discoverability
+
+- Feedback mechanisms reinforce user actions
+
+---
+
+## 🎯 Project Goals
+
+- Explore Flutter app architecture
+
+- Apply UX/UI principles in a real-world scenario
+
+- Enhance user engagement through interactive features
+
+- Practice secure handling of API data
+
+---
+
+## 📌 Future Improvements
+
+- Offline notifications
+
+- Advanced filtering and search
+
+- Dark mode support
+
+## 👩‍💻 Author
+
+Fully designed, developed and coded by me @Agoritsa
+
