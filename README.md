@@ -20,6 +20,7 @@ Beyond browsing events, the app allows users to **save favorites**, **share revi
 ## 🛠️ Tech Stack
 
 - **Flutter** (Dart)
+- Firebase for user authentication and database management
 - REST API integration
 - State management for dynamic UI updates
 - Environment variables for secure API key handling
